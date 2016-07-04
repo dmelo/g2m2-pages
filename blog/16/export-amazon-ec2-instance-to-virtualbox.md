@@ -5,6 +5,9 @@ Date: 2016/05/11
 Tags: linux,ec2,virtualbox
 */
 
+Export Amazon EC2 instance to VirtualBox
+========================================
+
 Let's say that you want/need to export your running EC2 instance to another
 platform. It may be a VirtualBox, VMWare, QEmu virtual machine or perhaps a
 physical machine. The 
@@ -112,7 +115,7 @@ exit;
 umount /mnt/disk;
 ```
 
-convert the raw image to the desired VM
+Convert the raw image to the desired VM
 ---------------------------------------
 
 In this post, I show how to make a VirtualBox VM out of it. So, this last
