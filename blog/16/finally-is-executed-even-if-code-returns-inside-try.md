@@ -1,6 +1,6 @@
 /*
 Title: Finally is executed even if code returns inside try
-Descprition: The finally statement is executed even if the code calls return inside the try statement.
+Description: The finally statement is executed even if the code calls return inside the try statement.
 Date: 2016/02/18
 Tags: java
 */

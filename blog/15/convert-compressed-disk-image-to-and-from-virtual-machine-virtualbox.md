@@ -1,6 +1,6 @@
 /*
 Title: Convert compressed disk image to (and from) virtual machine (Virtualbox)
-Descprition: Given a disk image, this post describes how to create a virtual
+Description: Given a disk image, this post describes how to create a virtual
 machine out of it.
 Date: 2015/11/05
 Tags: linux,dd,vm

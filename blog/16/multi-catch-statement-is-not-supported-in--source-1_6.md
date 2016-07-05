@@ -1,6 +1,6 @@
 /*
 Title: multi-catch statement is not supported in -source 1.6
-Descprition: This post shows how to solve the problem with java version support while using mvn
+Description: This post shows how to solve the problem with java version support while using mvn
 Date: 2016/03/30
 Tags: java,maven
 */

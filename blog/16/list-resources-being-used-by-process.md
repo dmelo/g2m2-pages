@@ -1,6 +1,6 @@
 /*
 Title: List resources being used by process
-Descprition: List resources, like files and socked that are being used, openned, by a process
+Description: List resources, like files and socked that are being used, openned, by a process
 Date: 2016/03/10
 Tags: linux
 */

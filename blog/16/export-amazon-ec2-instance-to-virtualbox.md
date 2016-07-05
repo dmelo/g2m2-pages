@@ -1,6 +1,6 @@
 /*
 Title: Export Amazon EC2 instance to VirtualBox 
-Descprition: This post describes, step by step, how to export an EC2 instance to VirtualBox or a host machine
+Description: This post describes, step by step, how to export an EC2 instance to VirtualBox or a host machine
 Date: 2016/05/11
 Tags: linux,ec2,virtualbox
 */

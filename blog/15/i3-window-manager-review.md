@@ -1,6 +1,6 @@
 /*
 Title: i3 Window manager review
-Descprition: This post makes a review on the i3 window manager. I have used a few window managers so far and I have to admit, i3 is awesome.
+Description: This post makes a review on the i3 window manager. I have used a few window managers so far and I have to admit, i3 is awesome.
 Date: 2015/04/02
 Tags: linux
 */

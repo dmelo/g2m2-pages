@@ -1,6 +1,6 @@
 /*
 Title: MySQL/MariaDB Clear cache command
-Descprition: Command to clear query cache on MySQL and MariaDB
+Description: Command to clear query cache on MySQL and MariaDB
 Date: 2015/08/25
 Tags: mariadb
 */
