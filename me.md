@@ -45,7 +45,7 @@ Personal life
 -------------
 
 I like getting envolved with open software projects. See the
-[/projects](/projects) for more details. I consider the computers, 
+[projects](projects) for more details. I consider the computers, 
 and everything that comes with it, to be the greatest achievement of mankind.
 The ability to "transfer" toughts from my mind to a system and keep it running
 forever is the closest thing I know to magic. It fascinates me.
