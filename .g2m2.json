@@ -1,5 +1,6 @@
 {
+    "theme": "bootstrap",
 	"plugins": [
-		"https://raw.githubusercontent.com/dmelo/g2m2-pages/master/g2m2/js/demoPlugin.js"
+        "https://rawgit.com/dmelo/g2m2-pages/master/g2m2/js/demoPlugin.js"
 	]
 }

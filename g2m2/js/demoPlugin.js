@@ -2,8 +2,10 @@
     var demoPlugin = function() {
     };
 
-    demoPlugin.prototype.postGetConfig = function() {
-        console.log("postGetConfig");
+    demoPlugin.prototype.postLoadConfig = function(config) {
+        console.log("postLoadConfig");
+
+        return config;
     }
 
     $.g2m2Plugins["demo"] = new demoPlugin();
