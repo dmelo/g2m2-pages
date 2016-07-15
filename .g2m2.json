@@ -1,6 +1,7 @@
 {
     "theme": "bootstrap",
+    "disqusid": "diogomelo",
 	"plugins": [
-        "https://rawgit.com/dmelo/g2m2-pages/master/g2m2/js/DemoPlugin.js"
+        "https://rawgit.com/dmelo/g2m2/master/public/js/plugins/DisqusPlugin.js"
 	]
 }
