@@ -2,6 +2,6 @@
     "theme": "bootstrap",
     "disqusid": "diogomelo",
 	"plugins": [
-        "https://rawgit.com/dmelo/g2m2/master/public/js/plugins/DisqusPlugin.js"
+        "/js/plugins/DisqusPlugin.js"
 	]
 }
