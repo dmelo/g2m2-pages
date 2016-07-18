@@ -7,7 +7,7 @@
 
     LayoutPlugin.prototype.postHtmlCalc = function (html) {
         var header = "\n\
-<div class="container">\n\
+<div class=\"container\">\n\
     <div class="row">\n\
         <ul class=\"nav nav-pills nav-stacked span2\">\n\
             <li class=\"sidebar-brand\">\n\
