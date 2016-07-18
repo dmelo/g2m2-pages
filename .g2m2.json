@@ -3,7 +3,7 @@
     "disqusid": "diogomelo",
 	"plugins": [
         "/js/plugins/DisqusPlugin.js",
-        "https://rawgit.com/dmelo/g2m2-pages/master/assets/layout.js"
+        "https://rawgit.com/dmelo/g2m2-pages/master/assets/LayoutPlugin.js"
 	],
     "css": [
         "https://rawgit.com/dmelo/g2m2-pages/master/assets/style.css"
