@@ -7,9 +7,6 @@ Tags: linux,ec2,virtualbox
 
 # Export Amazon EC2 instance to VirtualBox 
 
-Export Amazon EC2 instance to VirtualBox
-========================================
-
 Let's say that you want/need to export your running EC2 instance to another
 platform. It may be a VirtualBox, VMWare, QEmu virtual machine or perhaps a
 physical machine. The 
