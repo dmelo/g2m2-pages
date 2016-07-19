@@ -5,6 +5,8 @@ PageType: page
 PageTitle: Projects
 */
 
+# Projects
+
 My profile on GitHub is [dmelo](https://github.com/dmelo). Whenever I start an
 open project I version it there. Anyway, this page have the projects I am the
 most enthusiastic about.
