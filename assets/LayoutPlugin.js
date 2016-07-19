@@ -20,7 +20,7 @@
             i;
 
         for (i in items) {
-            header += "<li><a type=\"button\" class=\"btn btn-default\" href=\"" + items[i].link + ">" + items[i].text + "</a></li>";
+            header += "<li><a type=\"button\" class=\"btn btn-default\" href=\"" + items[i].link + "\">" + items[i].text + "</a></li>";
         }
 
         for (i in ads) {
