@@ -5,6 +5,8 @@ Date: 2013/02/05
 Tags: google-chrome
 */
 
+# "couldn't load plugin" message on Chrome, Linux
+
 A lot of people is getting this error today. Probably some bad update. They are
 noticing it mainly on youtube. Anyway, in linux it is very easy to fix. Just
 delete your PepperFlash directory.

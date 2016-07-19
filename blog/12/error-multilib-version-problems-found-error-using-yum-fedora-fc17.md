@@ -4,6 +4,8 @@ Description: <p>I was trying to install wine on my Fedora fc17 and getting this 
 Date: 2012/10/27
 */
 
+# Multilib version problems found -- Error using yum on Fedora fc17
+
 I was trying to install wine on my Fedora fc17 and getting this error message:
 
     Error:  Multilib version problems found. This often means that the root

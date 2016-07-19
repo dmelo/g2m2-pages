@@ -6,6 +6,8 @@ Date: 2015/09/02
 Tags: linux
 */
 
+# Solving "You have no authority to access this router" on TP-Link router
+
 
 Today I have stumbled upon a a funny problem. I'm working on an equipment that
 is a couple of hundred miles away. It sits under a TP-Link router, model

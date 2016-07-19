@@ -5,6 +5,8 @@ Date: 2015/08/25
 Tags: mariadb
 */
 
+# MySQL/MariaDB Clear cache command
+
 The command is:
 
     RESET QUERY CACHE;

@@ -5,6 +5,8 @@ Date: 2016/04/02
 Tags: linux,sh
 */
 
+# prunepath - a way to prune path to a threshold size
+
 When using [you2better](https://github.com/dmelo/you2better) the system will
 download the stream into cache files. The systema have no options to specify
 the maximum size that that cache dir can have. I could either implement that

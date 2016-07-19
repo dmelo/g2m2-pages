@@ -4,6 +4,8 @@ Description: I'm using Ubuntu 11.04 and experiencing some problems with ffmpeg. 
 Date: 2011/10/25
 */
 
+# Encoder (codec id 86017) not found for output stream #0.0 -- Compile ffmpeg yourself
+
 I'm using Ubuntu 11.04 and experiencing some problems with ffmpeg. I found this blog post [http://pasindudps.blogspot.com/2010/12/compiling-ffmpeg-in-ubuntu-1010.html](http://pasindudps.blogspot.com/2010/12/compiling-ffmpeg-in-ubuntu-1010.html) but it seems to be deprecated on Ubuntu 11.04.
 
 

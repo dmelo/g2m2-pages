@@ -4,6 +4,8 @@ Description: <p>There is a few javascript functions that are very useful but are
 Date: 2012/12/30
 */
 
+# JavaScript - Compatibility with Internet Explorer
+
 There is a few javascript functions that are very useful but are not implemented on IE: Function.bind, String.trim, Array.indexOf, Array.lastIndexOf and a few more...
 
 

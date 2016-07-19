@@ -5,6 +5,8 @@ Date: 2013/05/28
 Tags: linux,amuzi,web-development,php
 */
 
+# PHP, Session and a Bottleneck
+
 I learned something new, recently. Sessions in PHP are blocking. At
 [Amuzi](http://amuzi.me), I try to keep the user from have to go to another
 URI, this way the music won't stop. So I end up using a lot of Ajax. Some of

@@ -4,6 +4,8 @@ Description: I fixed a problem that I was having since the day I upgraded to ubu
 Date: 2011/11/03
 */
 
+# Virtualbox Problems - Please install the virtualbox-ose-dkms package and execute 'modprobe vboxdrv' as root
+
 I fixed a problem that I was having since the day I upgraded to ubuntu 11.04. My virtualbox stoped working and whenever I tried to launch a virtual machine it pop-up a alert window saying "Please install the virtualbox-ose-dkms package and execute 'modprobe vboxdrv' as root.".
 
 This error is probably happening because the Virtualbox that you are using doesn't works with the kernel that you are using. The Virtualbox that comes on the Ubuntu's repository, doesn't works with kernels that have PAE support. The PAE is for addressing more then 3.5GB of RAM memory.

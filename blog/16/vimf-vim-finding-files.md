@@ -5,6 +5,8 @@ Date: 2016/02/12
 Tags: linux,vim
 */
 
+# vimf - vim finding files
+
 Did you ever got bored of calling vim with a huge path? It can happen pretty often,
 specially when programming with Java. The command would go something like this:
 

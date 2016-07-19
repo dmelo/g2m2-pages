@@ -5,6 +5,8 @@ Date: 2016/03/30
 Tags: java,maven
 */
 
+# multi-catch statement is not supported in -source 1.6
+
 On a project I'm working, I tried to use multi-catch statement, something like this:
 
 ```java

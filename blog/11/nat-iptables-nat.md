@@ -4,6 +4,8 @@ Description: <p>Everytime I have to configure NAT I end up Googling for it. Here
 Date: 2011/11/20
 */
 
+# NAT - iptables -nat
+
 Everytime I have to configure NAT I end up Googling for it. Here is the set of commands that must be done in order to do NAT.
 
 	# delete old configuration, if any

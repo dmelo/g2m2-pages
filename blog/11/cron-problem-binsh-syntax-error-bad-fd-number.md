@@ -4,6 +4,8 @@ Description: Today I find out an interesting fact. Cron doesn't like "&gt;&" at 
 Date: 2011/06/17
 */
 
+# Cron Problem - /bin/sh: Syntax error: Bad fd number
+
 Today I find out an interesting fact. Cron doesn't like ">&" at all. Here is an example of a problematic cron line:
 
     * * * * * echo aaa >& /tmp/test.out

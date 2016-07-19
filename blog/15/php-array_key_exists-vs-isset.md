@@ -6,6 +6,8 @@ Date: 2015/11/21
 Tags: php,performance
 */
 
+# PHP: array\_key\_exists vs. isset
+
 First, the basics. Let's say you want to verify if `$foo['bar']` is set. You
 can use either functions:
 

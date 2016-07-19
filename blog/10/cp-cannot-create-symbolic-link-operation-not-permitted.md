@@ -1,8 +1,10 @@
 /*
-Title: cp: cannot create symbolic link: Operation not permitted
+Title: cp cannot create symbolic link Operation not permitted
 Description: cp cannot create symbolic link Operation not permitted
 Date: 2010/08/01
 */
+
+# cp: cannot create symbolic link: Operation not permitted
 
 Today, I was trying to copy a bunch of files to my pendrive and it came out with a lot of messages like this:
 

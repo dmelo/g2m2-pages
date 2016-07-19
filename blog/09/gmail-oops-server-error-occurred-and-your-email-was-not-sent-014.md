@@ -4,6 +4,8 @@ Description: Last week I had some troubles with my gmail. I couldn't send emails
 Date: 2009/12/09
 */
 
+# Gmail - Oops... a server error occurred and your email was not sent. (#014)
+
 Last week I had some troubles with my gmail. I couldn't send emails. Every time i tried, Gmail pops up a message `Oops... a server error occurred and your email was not sent. (#014)`.
 
 Searching for the meaning of this error (since error messages usually don't make any sense) I found that it means the email was too long or something like that. Which simply sounds absurd, since the messages was only a few phrases without any attachment.

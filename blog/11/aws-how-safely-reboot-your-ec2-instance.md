@@ -4,6 +4,8 @@ Description: If you install a new kernel, you will have to reboot your system in
 Date: 2011/09/23
 */
 
+# AWS - How to safely reboot your EC2 instance
+
 If you install a new kernel, you will have to reboot your system in order to use it, right? When you are doing such things on a real machine that is next to you, there is no much trouble rebooting it. That's because you have a keyboard plugged on the machine. But, what happens if your server is a virtual server, like EC2? If you reboot your machine and SSH doesn't come back, you're gonna have problems. Specially if you use just EC2-Storage instead of EBS.
 
 A few months ago, I had to reboot a server and I faced the worst possible scenario. The SSH didn't came back, I was using EC2-Storage to store all the data. The server was hosting around four websites, all of them was important to the client. I remember that (after kicking myself) I spent the next 28 hours:

@@ -4,6 +4,8 @@ Description: Today I'm doing some very intensive IO usage with mysql. It's basic
 Date: 2012/05/20
 */
 
+# ionice - Execution priority for IO
+
 Today I'm doing some very intensive IO usage with mysql. It's basically
 restoring dumps which includes lots of indexes. It's taking more than 6 hours
 and it makes it difficult to other processes to use the the IO too.
