@@ -5,7 +5,7 @@ PageType: page
 PageTitle: Me
 */
 
-![Diogo Melo](assets/diogo.jpg)
+![Diogo Melo](/assets/diogo.jpg)
 
 Introduction
 ------------
