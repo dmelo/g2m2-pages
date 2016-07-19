@@ -4,6 +4,8 @@ Description: You can either have the installation that comes with Ubuntu or the 
 Date: 2011/11/03
 */
 
+# Cloning a Virtualbox Machine
+
 You can either have the installation that comes with Ubuntu or the Oracle's release
 
 ### Oracle's release

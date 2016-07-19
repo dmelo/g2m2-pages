@@ -4,6 +4,8 @@ Description:
 Date: 2009/09/18
 */
 
+# John D. Rockefeller
+
 "I was early taught to work as well as play,
 
 My life has been one long, happy holiday;

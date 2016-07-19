@@ -4,6 +4,8 @@ Description: I'm also against SOPA and PIPA and I find it very nice that so many
 Date: 2012/01/18
 */
 
+# Stop SOPA and PIPA
+
 I'm also against SOPA and PIPA and I find it very nice that so many and important web sites are lobbing against it:
 
 [https://www.facebook.com/FacebookDC?sk=app_329139750453932](https://www.facebook.com/FacebookDC?sk=app_329139750453932)

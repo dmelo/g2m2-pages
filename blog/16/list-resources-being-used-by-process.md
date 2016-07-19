@@ -5,6 +5,8 @@ Date: 2016/03/10
 Tags: linux
 */
 
+# List resources being used by process
+
 I've been looking for this for a while. I wanted a way to list all files openned
 by a process. The answare is way simpler than I imagined:
 

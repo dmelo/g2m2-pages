@@ -5,6 +5,8 @@ Date: 2016/02/18
 Tags: java
 */
 
+# Finally is executed even if code returns inside try
+
 I came across a piece of code where there was a `return` statement inside the
 `try` and the `finally` with some code as well. I don't have much experience
 with Java and, until today, `return` meant end of execution for me. Then,

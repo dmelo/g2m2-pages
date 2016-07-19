@@ -4,6 +4,8 @@ Description: Imagine that you are writing a tutorial, or a blog entry, for examp
 Date: 2011/07/07
 */
 
+# TableOfContents with jQuery
+
 Imagine that you are writing a tutorial, or a blog entry, for example. You divided your text in sections and (maybe) subsections. So you think, it would be nice to have a table of contents with links to each sections and subsection.
 
 One way to do it is write that table manually. But this approach have a few problems: 1) you have to sort of copy/paste every title name and copy/paste by itself is something that should be avoided[1] and 2) on the future if you change the text you will always have to be careful with the table of contents.

@@ -38,6 +38,8 @@ or
 
 .chrome.linux body { /* Set font to arial only if the browser is Chrome and is running on Linux. */
 
+# Browser Selector Scripts
+
     font-family: arial;
 
 }

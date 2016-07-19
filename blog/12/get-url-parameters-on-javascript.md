@@ -4,6 +4,8 @@ Description: In PHP there is the global var $_GET that contains a map of all the
 Date: 2012/08/26
 */
 
+# Get URL parameters on Javascript
+
 In PHP there is the global var `$_GET` that contains a map of all the get
 parameters on the requested URL. I needed something similar to work with
 Javascript. I found this post [http://stackoverflow.com/questions/1403888/get-url-parameter-with-jquery](http://stackoverflow.com/questions/1403888/get-url-parameter-with-jquery)

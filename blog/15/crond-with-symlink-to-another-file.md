@@ -5,6 +5,8 @@ Date: 2015/11/05
 Tags: linux
 */
 
+# Cron.d with symlink to another file
+
 If you place a symlink inside `/etc/cron.d/`, odds are that it isn't gonna work.
 I had this problem for the first time today, then I've decided to write about it.
 The daemon will only follow the symlink *if the file is also owned by root*.

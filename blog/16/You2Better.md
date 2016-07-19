@@ -5,6 +5,8 @@ Date: 2016/03/05
 Tags: linux,web-development
 */
 
+# You2Better
+
 It's been a while that [Amuzi](http://amuzi.me) uses You2Better to stream audio
 content from YouTube. I have recently upgraded the documentation on You2Better
 to make it easier for other developers to take advantage of You2Better.

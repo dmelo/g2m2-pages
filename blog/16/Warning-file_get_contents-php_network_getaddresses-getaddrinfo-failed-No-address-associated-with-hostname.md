@@ -5,6 +5,8 @@ Date: 2016/05/05
 Tags: web-development,php,apache
 */
 
+# Warning file_get_contents() php_network_getaddresses getaddrinfo failed No address associated with hostname
+
 Today I was working on Amuzi and when I did a HTTP request on my local deploy
 there was an error. The odd thing is that the error happend in a place that use
 to be very solid. Digging down, I found that PHP was having trouble with

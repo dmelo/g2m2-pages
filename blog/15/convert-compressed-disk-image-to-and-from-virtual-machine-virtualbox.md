@@ -6,6 +6,8 @@ Date: 2015/11/05
 Tags: linux,dd,vm
 */
 
+# Convert compressed disk image to (and from) virtual machine (Virtualbox)
+
 On a [previous post](/blog/15/using-dd-and-lzma-to-backup-and-restore-a-disk)
 I have documented a way to backup and restore a disk, using `dd` and
 `lzma`.

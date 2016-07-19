@@ -6,6 +6,8 @@ Date: 2015/10/14
 Tags: linux,dd,backup
 */
 
+# Using dd and lzma to backup and restore a disk
+
 Suppose the target disk is at `/dev/sda` and the image is (or will be) at 
 `/mnt/disk.img.lzma`
 

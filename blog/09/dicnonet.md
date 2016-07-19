@@ -4,6 +4,8 @@ Description: Today's post is about dicno.net. As the background of this blog sug
 Date: 2009/12/26
 */
 
+# Dicno.net
+
 Today's post is about [dicno.net](http://dicno.net).
 
 As the background of this blog suggests, I'm a brazilian guy, and a very patriot one. My english sucks but I like to write my posts in english. This way all my friends can read it :D

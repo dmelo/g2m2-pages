@@ -4,6 +4,8 @@ Description: It has been a long time since the last post. This one is about xran
 Date: 2009/11/11
 */
 
+# Using xrandr
+
 It has been a long time since the last post. This one is about xrandr. First of all, I don't intend to cover all possibles usages of xrandr. I will only tell the way I solve a problem I had, using it.
 
 Here is the deal, xrandr is used to dynamically change the things that usually you set into xorg.conf. I have a laptop and when I'm home I just use the LCD in it. Sometimes, I like to bring my laptop to the place I work. I have a monitor there and I like to use it  with my laptop, to do the dual head stuff.

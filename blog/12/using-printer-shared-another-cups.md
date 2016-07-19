@@ -4,6 +4,8 @@ Description: To register a printer shared by another CUPS, you can simply use th
 Date: 2012/11/01
 */
 
+# Using a printer shared by another CUPS
+
 
 To register a printer shared by another CUPS, you can simply use the command:
 

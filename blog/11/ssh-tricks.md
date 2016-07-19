@@ -4,6 +4,8 @@ Description: SSH is a powerful tool that allow you to remotely operate another m
 Date: 2011/08/09
 */
 
+# SSH Tricks 
+
 SSH is a powerful tool that allow you to remotely operate another machine. Here you'll find some tips about SSH.
 
 <!--break-->

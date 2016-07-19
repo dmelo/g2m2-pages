@@ -52,6 +52,8 @@ to another was awesome, on the first day. After a while I had removed all the
 transitions, not only to make it lighter but also to make it look lighter.
 
 /* check nowsday */
+
+# i3 Window manager review
 Nowsday just want no transition effects at all. I see it as useless and resource
 hog.
 

@@ -5,6 +5,8 @@ Date: 2015/11/04
 Tags: 3dprinter
 */
 
+# How to invert y axis to solve mirrored printing on mendel prusa i3 rework 
+
 
 When I was printing the first pieces on my I3 rework I've notice that it was
 comming mirrored on the Y axis. I'm using the

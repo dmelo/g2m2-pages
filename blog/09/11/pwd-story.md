@@ -4,6 +4,8 @@ Description: This post is just a geek curious stuff about Linux. pwd is a shell 
 Date: 2009/11/21
 */
 
+# pwd Story
+
 This post is just a geek curious stuff about Linux.
 
 pwd is a shell built-in command that show you the working directory. Good part of the built-in commands also have an external program that, in theory, behave just like the built-in one.
@@ -15,7 +17,8 @@ Now comes the weird demo. Create a symbolic link to /tmp into your home director
     dmelo@merov:~$ ln -s /tmp/ tmp
     dmelo@merov:~$ cd tmp
 
-Now, prompt two commands, the first is *pwd* and then the second, */bin/pwd*. You will see something like this.
+Now, prompt two commands, the first is *pwd* and then the second, */bin/pwd*.
+You will see something like this.
 
     dmelo@merov:~/tmp$ pwd
     /home/dmelo/tmp

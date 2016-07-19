@@ -6,6 +6,8 @@ Date: 2015/10/20
 Tags: linux
 */
 
+# Use sed to replace newline
+
 Sed processes line by line, therefore special syntax is needed to
 replace newline char. For some darn reason, I keep forgetting this special
 syntax. Here is the command to replace newline by a comma:

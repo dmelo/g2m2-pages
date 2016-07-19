@@ -4,6 +4,8 @@ Description: Today I did a very basic benchmark and the result was impressive. F
 Date: 2012/02/26
 */
 
+# Simple Benchmark with Node.js against Apache
+
 Today I did a very basic benchmark and the result was impressive. For this benchmark I'm only interested on the overhead each web server creates to establish the connection, process the request and send the response.
 
 First, a simple hello world program on node.js:

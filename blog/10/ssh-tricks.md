@@ -4,6 +4,8 @@ Description: SSH Tricks
 Date: 2011/08/01
 */
 
+# SSH Tricks
+
 SSH is a powerful tool that allow you to remotely operate another machine. Here you'll find some tips about SSH.
 
 ## Safe Browsing

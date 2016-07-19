@@ -4,6 +4,8 @@ Description: First of all, you must install lame. apt-get install lame on debian
 Date: 2010/08/17
 */
 
+# Recording microphone from command line
+
 First of all, you must install lame. `apt-get install lame` on debian based distributions must do the job. Just after that, this must do the work.
 
     arecord -f cd -t raw | lame -x -r - out.mp3

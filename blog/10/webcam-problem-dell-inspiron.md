@@ -4,6 +4,8 @@ Description: It has been a really long time since my last post. I can hear dust.
 Date: 2010/06/13
 */
 
+# Webcam Problem at Dell Inspiron
+
 It has been a really long time since my last post. I can hear dust.
 
 I have a Dell Inspiron 1525, running Ubuntu and Debian. On both distros I have the same problem. After a while with the machine up the webcam stops working. I check for the `/dev/video0` and the file does not exists. So, something is wrong.

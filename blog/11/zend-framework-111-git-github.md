@@ -4,6 +4,8 @@ Description: A while ago I started migrating my stuff to git. I use Zend Framewo
 Date: 2012/02/09
 */
 
+# Zend Framework 1.11 on Git (GitHub)
+
 A while ago I started migrating my stuff to git. I use Zend Framework a lot. The Zend Framework team is migrating to git as well but they are starting by the version 2.0. Which means previous versions (like the 1.11 that I use) are not on git.
 
 Fortunately, there is other people also interested on getting 1.11 on git and mridgway created a repo in GitHub  that have this version [https://github.com/mridgway/Zend-Framework-1.x-Mirror.git](https://github.com/mridgway/Zend-Framework-1.x-Mirror.git).

@@ -5,6 +5,8 @@ Date: 2013/05/25
 Tags: linux,mariadb
 */
 
+# How to log every query on MySQL
+
 To know every sql being executed on your server, you have to:
 
 1. set debug on;

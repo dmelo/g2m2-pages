@@ -4,6 +4,8 @@ Description: After do some drupal installations I decided to create a small HowT
 Date: 2009/09/18
 */
 
+# Get Drupal installed in 10 very easy steps.
+
 After do some drupal installations I decided to create a small HowTo about it.
 
 What I'm assuming:
