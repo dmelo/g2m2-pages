@@ -1,6 +1,6 @@
 /*
 Title: PHP, Session and a Bottleneck
-Description: I learned something new, recently. Sessions in PHP are blocking. At [http://amuzi.me](Amuzi), I try to keep the user from having to go to another URI, this way the music won't stop. So I end up using a lot of Ajax. Some of this are concurrent. For instance, when a user click to add a music, one request is fired to fulfill that request and another one to search for similar music. The problem is that, on server side, the two requests won't run simultaneously if they use sessions.
+Description: I learned something new, recently. Sessions in PHP are blocking. At [http//amuzi.me](Amuzi), I try to keep the user from having to go to another URI, this way the music won't stop. So I end up using a lot of Ajax. Some of this are concurrent. For instance, when a user click to add a music, one request is fired to fulfill that request and another one to search for similar music. The problem is that, on server side, the two requests won't run simultaneously if they use sessions.
 Date: 2013/05/28
 Tags: linux,amuzi,web-development,php
 */

@@ -1,6 +1,6 @@
 /*
 Title: VSNM - Very Simple Network Manager
-Description: The code is written in python and is very easy to use. It can be found here https://github.com/dmelo/vsnm .
+Description: The code is written in python and is very easy to use. It can be found here https//github.com/dmelo/vsnm .
 Date: 2012/07/28
 Tags: linux,vswm
 */

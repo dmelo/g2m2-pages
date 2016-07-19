@@ -1,6 +1,6 @@
 /*
 Title: Webcam Problem at Dell Inspiron
-Description: It has been a really long time since my last post. I can hear dust. I have a Dell Inspiron 1525, running Ubuntu and Debian. On both distros I have the same problem. After a while with the machine up the webcam stops working. I check for the /dev/video0 and the file does not exists. So, something is wrong. The webcam on those laptops are from OmniVision. Which means that even if your machine is not a Dell Inspiron this solution might suit you. If you give the command lsusb, one of the responses should be something like:
+Description: It has been a really long time since my last post. I can hear dust. I have a Dell Inspiron 1525, running Ubuntu and Debian. On both distros I have the same problem. After a while with the machine up the webcam stops working. I check for the /dev/video0 and the file does not exists. So, something is wrong. The webcam on those laptops are from OmniVision. Which means that even if your machine is not a Dell Inspiron this solution might suit you. If you give the command lsusb, one of the responses should be something like
 Date: 2010/06/13
 */
 

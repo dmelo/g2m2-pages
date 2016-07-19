@@ -1,6 +1,6 @@
 /*
 Title: JavaScript - Compatibility with Internet Explorer
-Description: <p>There is a few javascript functions that are very useful but are not implemented on IE: Function.bind, String.trim, Array.indexOf, Array.lastIndexOf and a few more... I found an script on stackoverflow (lost the link) that tests it those functions exists and, if it doesn't, implement them. Also, as I use console.log for debugging, IE kept claiming console.log doesn't exists, so I added that too (dummy version, just to stop it from complaining).
+Description: <p>There is a few javascript functions that are very useful but are not implemented on IE Function.bind, String.trim, Array.indexOf, Array.lastIndexOf and a few more... I found an script on stackoverflow (lost the link) that tests it those functions exists and, if it doesn't, implement them. Also, as I use console.log for debugging, IE kept claiming console.log doesn't exists, so I added that too (dummy version, just to stop it from complaining).
 Date: 2012/12/30
 */
 

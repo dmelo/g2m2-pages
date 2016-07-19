@@ -1,6 +1,6 @@
 /*
 Title: Install LAMP with just one command line on Debian/Ubuntu
-Description: I'm so tired of install Apache with MySQL and PHP. I always have to make lots of "apt-get"s tto get all the packages installed just because I don't remember all of them at the first "apt-get". Here is the line to install all you (probably) need: apt-get install phpmyadmin
+Description: I'm so tired of install Apache with MySQL and PHP. I always have to make lots of "apt-get"s tto get all the packages installed just because I don't remember all of them at the first "apt-get". Here is the line to install all you (probably) need apt-get install phpmyadmin
 Date: 2010/07/21
 */
 

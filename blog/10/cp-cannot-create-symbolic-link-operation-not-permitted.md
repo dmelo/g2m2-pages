@@ -1,6 +1,6 @@
 /*
 Title: cp: cannot create symbolic link: Operation not permitted
-Description: cp: cannot create symbolic link: Operation not permitted
+Description: cp: cannot create symbolic link Operation not permitted
 Date: 2010/08/01
 */
 

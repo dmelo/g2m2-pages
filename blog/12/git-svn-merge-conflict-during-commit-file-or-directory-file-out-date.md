@@ -1,6 +1,6 @@
 /*
 Title: Git SVN: Merge conflict during commit: File or directory file is out of date
-Description: Using git to work on a SVN repository is really great. Recently I ran into the following error while trying to run git svn dcommit:
+Description: Using git to work on a SVN repository is really great. Recently I ran into the following error while trying to run git svn dcommit
 Date: 2012/05/11
 */
 

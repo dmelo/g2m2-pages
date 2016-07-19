@@ -1,6 +1,6 @@
 /*
 Title: Cloning a Virtualbox Machine
-Description: You can either have the installation that comes with Ubuntu or the Oracle's release<h3>Oracle's release</h3>If you are using the Oracle's release (https://www.virtualbox.org/wiki/Downloads) then everything you need to do is right click on your machine and "clone", on the Virtualbox's management interface.<h3>Ubuntu's version</h3>
+Description: You can either have the installation that comes with Ubuntu or the Oracle's release<h3>Oracle's release</h3>If you are using the Oracle's release (https//www.virtualbox.org/wiki/Downloads) then everything you need to do is right click on your machine and "clone", on the Virtualbox's management interface.<h3>Ubuntu's version</h3>
 Date: 2011/11/03
 */
 
