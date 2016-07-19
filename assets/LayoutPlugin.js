@@ -7,13 +7,13 @@
 
     LayoutPlugin.prototype.postHtmlCalc = function (html) {
         var header = "<div class=\"container\"> <div class=\"row\"> <div class=\"col-md-3\" role=\"complementary\"> <ul class=\"nav nav-pills nav-stacked span2\"> <li class=\"sidebar-brand\"> <a href=\"/\"><h1>Diogo Melo</h1></a> </li>",
-            footer = "</div> </div> <footer class=\"row\"> <div class=\"container\"> <p id=\"legal\">Powered by <a target=\"_blank\" href=\"http://g2m2.net\">G2M2.net</a> - Copyright &copy; 2011-2016 Diogo Oliveira de Melo.</p> </div></footer>",
+            footer = "</div> </div> </div> <footer class=\"row\"> <div class=\"container\"> <p id=\"legal\">Powered by <a target=\"_blank\" href=\"http://g2m2.net\">G2M2.net</a> - Copyright &copy; 2011-2016 Diogo Oliveira de Melo.</p> </div></footer>",
             linkPrefix = window.location.pathname.match(/^\/g2m2-pages/).length ?
                 '/g2m2-pages' : '',
             items = [
-                { link: linkPrefix + "/projects", text: "Projects" },
                 { link: linkPrefix + "/me", text: "Me" },
-                { link: linkPrefix + "/blog", text: "Blog" }
+                { link: linkPrefix + "/blog", text: "Blog" },
+                { link: linkPrefix + "/projects", text: "Projects" }
             ],
             ads = [
                 { link: "http://g2m2.net", text: "G2M2.net", desc: "Flat Markdown GitHub CMS" },
