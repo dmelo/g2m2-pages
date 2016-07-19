@@ -1,6 +1,6 @@
 /*
 Title: Google Jokes
-Description: The joke of 2009 is the Chrome 3D <a>http://www.google.com/intl/en/landing/chrome/cadie/</a>Since 2000, Google is launching jokes at April Fool's Day. The first one was the <a href="http//www.google.com/mentalplex/">MentalPlex</a>. The MentalPlex is a google search engine able to read your mind and guess what do you want to search.
+Description: The joke of 2009 is the Chrome 3D <a>http//www.google.com/intl/en/landing/chrome/cadie/</a>Since 2000, Google is launching jokes at April Fool's Day. The first one was the <a href="http//www.google.com/mentalplex/">MentalPlex</a>. The MentalPlex is a google search engine able to read your mind and guess what do you want to search.
 Date: 2011/08/01
 */
 
