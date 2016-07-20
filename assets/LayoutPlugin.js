@@ -8,8 +8,8 @@
     LayoutPlugin.prototype.postHtmlCalc = function (html) {
         var linkPrefix = window.location.pathname.match(/^\/g2m2-pages/) ?
                 '/g2m2-pages' : '',
-            header = "<div class=\"container\"> <div class=\"row\"> <div class=\"col-md-3\" role=\"complementary\"> <ul class=\"nav nav-pills nav-stacked span2\"> <li class=\"sidebar-brand\"> <a href=\"" + linkPrefix + "/\"><h1>Diogo Melo</h1></a> </li>",
-            footer = "</div> </div> </div> <footer class=\"row\"> <div class=\"container\"> <p id=\"legal\">Powered by <a target=\"_blank\" href=\"http://g2m2.net\">G2M2.net</a> - Copyright &copy; 2011-2016 Diogo Oliveira de Melo.</p> </div></footer>",
+            header = "<div class=\"row\"> <div class=\"col-md-3\" role=\"complementary\"> <ul class=\"nav nav-pills nav-stacked span2\"> <li class=\"sidebar-brand\"> <a href=\"" + linkPrefix + "/\"><h1>Diogo Melo</h1></a> </li>",
+            footer = "<footer class=\"row\"> <div class=\"container\"> <p id=\"legal\">Powered by <a target=\"_blank\" href=\"http://g2m2.net\">G2M2.net</a> - Copyright &copy; 2011-2016 Diogo Oliveira de Melo.</p> </div></footer> </div> </div>",
             items = [
                 { link: linkPrefix + "/me", text: "Me" },
                 { link: linkPrefix + "/blog", text: "Blog" },
