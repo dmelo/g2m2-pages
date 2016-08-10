@@ -34,7 +34,7 @@ change in color, it was a bit more dark. When I mixed it, I've notice that it
 was only a thin layer, that was in contact with the air. Beneath, the color
 was the same as the day before.
 
-![Initial mixture after 36 hours of resting](assets/making-sourdough-starter/day2.jpg)
+![Initial mixture after 36 hours of resting](/assets/making-sourdough-starter/day2.jpg)
 
 I added 120 grams of flour and 120 grams of water to the mixture, stired it
 until it became homogeneous again and put left it resting for another 24 hours.
