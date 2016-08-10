@@ -38,3 +38,26 @@ was the same as the day before.
 
 I added 120 grams of flour and 120 grams of water to the mixture, stired it
 until it became homogeneous again and put left it resting for another 24 hours.
+
+## Day 3
+
+When I've got home from day three I've noticed a funny smell on the house. It
+was the sourdough starter. The smell reminded me of butter it was a bit strong,
+sour. As far as I understand it might be due to the lactic acid produced by the
+lactobacilli. Altough it is considered normal, a starter rich in lactic acid
+bateria may result in a fast leaven and denser final product, which is not
+desirable.
+
+The dough had even more bubbles, seemed a bit darked then the original mixture,
+as in day 2. After stir it, to feel the texture, it was clear that the mixture
+was not longer homogeneous. A transparent liquid had separated from the dough. I
+added 120 grams of flour and 120 grams of water, stired it carefully not to pour
+the liquid from the container. This time, the texture was not a batter like, as
+on the precioius days, but a bit more liquid.
+
+Two hours after stiring it, I took more pictures:
+
+![Day 3, two hours after adding flour, water and stiring it](/assets/making-sourdough-starter/day3.jpg)
+
+I covered it with a plastic lid this time, to avoid the smell, and let it rest
+for another 22 hours.
