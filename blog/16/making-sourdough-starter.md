@@ -59,5 +59,18 @@ Two hours after stiring it, I took more pictures:
 
 ![Day 3, two hours after adding flour, water and stiring it](/assets/making-sourdough-starter/day3.jpg)
 
-I covered it with a plastic lid this time, to avoid the smell, and let it rest
-for another 22 hours.
+I covered it with a plastic lid this time, to avoid the smell getting around the
+house, and let it rest for another 22 hours.
+
+## Day 4
+
+I've made a terrible mistake yesterday. I have sealed
+the sourdough starter with the plastic lid of the container. When I went to look
+at it today, it had the same smell and color of the day before but no bubbles at
+all.
+
+I will assume the bacteria is still alive, and they have not fed on the flour and
+water I have added yesterday, because of the lack of bubbles. So I will loosely
+cover it with the dishcloth and await until tomorrow. 
+
+![Day 4, no bubbles after left it sitting with the plastic lid sealing the container](/assets/making-sourdough-starter/day4.jpg)
