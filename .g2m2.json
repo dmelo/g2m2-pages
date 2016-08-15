@@ -3,8 +3,8 @@
     "disqusid": "diogomelo",
     "googleAnalyticsId": "UA-7893542-2",
 	"plugins": [
-        "/js/plugins/DisqusPlugin.js",
-        "/js/plugins/GoogleAnalyticsPlugin.js",
+        "plugins/DisqusPlugin",
+        "plugins/GoogleAnalyticsPlugin",
         "https://rawgit.com/dmelo/g2m2-pages/master/assets/LayoutPlugin.js"
 	],
     "css": [
