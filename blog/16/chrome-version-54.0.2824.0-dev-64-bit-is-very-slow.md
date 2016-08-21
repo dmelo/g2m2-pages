@@ -5,6 +5,8 @@ Date: 2016/08/21
 Tags: Chrome
 */
 
+# Google Chrome version 54.0.2824.0 dev (64-bit) is very slow
+
 Chrome was very slow lately. Some pages was taking a few seconds to load.
 Scrolling the page had glitches. Googling around, I came accross this reddit
 post 
