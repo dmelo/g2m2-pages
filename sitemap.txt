@@ -3,7 +3,6 @@ http://diogomelo.net/me
 http://diogomelo.net/diogo-melo-0
 http://diogomelo.net/index
 http://diogomelo.net/vsnm
-http://diogomelo.net/sitemap
 http://diogomelo.net/404
 http://diogomelo.net/projects
 http://diogomelo.net/node/53
@@ -80,12 +79,18 @@ http://diogomelo.net/blog/12/ionice-execution-priority-io
 http://diogomelo.net/blog/12/github-action-required-ssh-key-vulnerability
 http://diogomelo.net/blog/12/linux-lost-control-lcd-brightness-how-fix-it
 http://diogomelo.net/blog/12/javascript-compatibility-internet-explorer
+http://diogomelo.net/blog/16/making-sourdough-starter
 http://diogomelo.net/blog/16/export-amazon-ec2-instance-to-virtualbox
+http://diogomelo.net/blog/16/vim-hack
 http://diogomelo.net/blog/16/You2Better
+http://diogomelo.net/blog/16/cormen-introduction-to-algorithms-exercises-of-chapter-6-heapsort
+http://diogomelo.net/blog/16/Investindo-em-tesouro-direto-parte-pratica
 http://diogomelo.net/blog/16/Warning-file_get_contents-php_network_getaddresses-getaddrinfo-failed-No-address-associated-with-hostname
 http://diogomelo.net/blog/16/prunepath-a-way-to-prune-path-to-a-threshold-size
 http://diogomelo.net/blog/16/vimf-vim-finding-files
+http://diogomelo.net/blog/16/chrome-version-54.0.2824.0-dev-64-bit-is-very-slow
 http://diogomelo.net/blog/16/finally-is-executed-even-if-code-returns-inside-try
+http://diogomelo.net/blog/16/Choosing-a-PHP-ORC
 http://diogomelo.net/blog/16/list-resources-being-used-by-process
 http://diogomelo.net/blog/16/multi-catch-statement-is-not-supported-in--source-1_6
 http://diogomelo.net/blog/13/couldnt-load-plugin-message-chrome-linux
@@ -149,4 +154,5 @@ http://diogomelo.net/blog/15/php-array_key_exists-vs-isset
 http://diogomelo.net/blog/15/i3-window-manager-review
 http://diogomelo.net/blog/15/using-dd-and-lzma-to-backup-and-restore-a-disk
 http://diogomelo.net/blog/15/grep-binary-file-standard-input-matches
+http://diogomelo.net/blog/15/.vimf-shortcut-to-open-files.md.swp
 http://diogomelo.net/blog/15/how-i-solved-when-my-printing-was-too-weak-and-light
