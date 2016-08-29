@@ -20,7 +20,7 @@ I've got this code from [this stackoverflow question](http://stackoverflow.com/q
 
     grep -v -e "^$"
 
-Careful not to be fooled white chars. If you also want to drop lines that have
+Careful not to be fooled by white chars. If you also want to drop lines that have
 only white chars you can use:
 
     grep -v -e '^[[:space:]]*$'
