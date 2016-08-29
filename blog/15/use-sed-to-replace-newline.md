@@ -1,7 +1,6 @@
 /*
 Title: Use sed to replace newline
-Description: Sed processes line by line, therefore special syntax is needed to
-replace newline char.
+Description: Sed processes line by line, therefore special syntax is needed to replace newline char.
 Date: 2015/10/20
 Tags: linux
 */
