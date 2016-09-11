@@ -29,7 +29,7 @@
             header += "<li class=\"ads\"><a href=\"" + ads[i].link + "\" target=\"_blank\"><button type=\"button\" class=\"btn btn-primary\">" + ads[i].text + "</button><p><small>" + ads[i].desc + "</small></p></a></li>";
         }
 
-        header += "</ul> </div> <div class=\"col-md-9\" role=\"main\">";
+        header += "</ul> </div> <div class=\"col-md-9\" role=\"main\"><div id=\"toc\"></div>";
 
         return header + html + footer;
     };
