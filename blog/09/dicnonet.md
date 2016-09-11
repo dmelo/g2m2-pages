@@ -29,7 +29,7 @@ Google images comes through [Google AJAX Search API](http://code.google.com/apis
 
 Apart of the Google images, every content comes from server side, they are not loaded dynamically. This measure is for SEO purposes. If the site was populating the all the content using AJAX, then search engines wouldn't find any content. As far as I know those search engines doesn't run the Javascript to see if there is more information.
 
-The site [dicionariodenomesproprios.com.br](http://www.dicionariodenomesproprios.com.br) does not have an API, for foreign sites to access it's content. So, I'm using [Zend_Dom_Query](http://framework.zend.com/manual/en/zend.dom.query.html) to parse the site's content and get the information  I want.
+The site [dicionariodenomesproprios.com.br](http://www.dicionariodenomesproprios.com.br) does not have an API, for foreign sites to access it's content. So, I'm using [Zend\_Dom\_Query](http://framework.zend.com/manual/en/zend.dom.query.html) to parse the site's content and get the information  I want.
 
 The content from [Wikipedia](http://en.wikipedia.org) comes through a very elegant way, the [DBpedia](http://dbpedia.org). DBpedia is a very interesting effort to make the internet (or at least the Wikipedia) accessible by it's semantic. When you try to access somebody's name, the server request the list of people who have the same name.
 
