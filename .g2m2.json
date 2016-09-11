@@ -5,7 +5,8 @@
 	"plugins": [
         "plugins/DisqusPlugin",
         "plugins/GoogleAnalyticsPlugin",
-        "https://rawgit.com/dmelo/g2m2-pages/master/assets/LayoutPlugin.js"
+        "https://rawgit.com/dmelo/g2m2-pages/master/assets/LayoutPlugin.js",
+        "plugins/TocPlugin"
 	],
     "css": [
         "https://rawgit.com/dmelo/g2m2-pages/master/assets/style.css"
