@@ -15,31 +15,35 @@ put it to a test.
 
 I wrote the following code inside `A.java`:
 
-    public class A {
-        public int t() {
-            try {
-                System.out.println("try");
-                return 2;
-            } catch (Exception e) {
-            } finally {
-                System.out.println("finally");
-            }
-            return 1;
+```java
+public class A {
+    public int t() {
+        try {
+            System.out.println("try");
+            return 2;
+        } catch (Exception e) {
+        } finally {
+            System.out.println("finally");
         }
-
-        static public void main(String []args) {
-            A a = new A();
-            System.out.println("t: " + a.t());
-        }
+        return 1;
     }
+
+    static public void main(String []args) {
+        A a = new A();
+        System.out.println("t: " + a.t());
+    }
+}
+```
 
 
 Then I compiled and ran it. Here is the result:
 
-    dmelo@merov2:~/proj2/java$ java A
-    try
-    finally
-    t: 2
+```
+dmelo@merov2:~/proj2/java$ java A
+try
+finally
+t: 2
+```
 
 See that it is printing the "finally" line? Today I've learned it called the
 finally block even if you return the method inside the `try`. My next tought
