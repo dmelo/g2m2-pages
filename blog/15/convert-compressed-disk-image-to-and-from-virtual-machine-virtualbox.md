@@ -33,7 +33,7 @@ Don't forget to add 1, because 121522175 is 0-indexed. After that, multiply by
 the size of the section, 512 in my case. It gives the number 62219354112.
 
 After creating the VDI, you can open VitualBox and create a new VM, with that
-existing diskt, instead of the default option of creating a new one. A special
+existing disk, instead of the default option of creating a new one. A special
 reminder. In my case, I'm working with 64-bit machines, it is important to
 specify that it is a 64-bit OS, while creating the new VM.
 
