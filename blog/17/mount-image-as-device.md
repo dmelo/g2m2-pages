@@ -5,6 +5,8 @@ Date: 2017/03/21
 Tags: linux
 */
 
+# Mount Image as Device
+
 I have a lot of images from backup of projects I have worked with. Sometimes I
 need to mount one of those images to get some file. I used `losetup` to get the
 /dev/loopX device file and then I was trying to use `kpartx` to map the

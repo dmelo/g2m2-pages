@@ -6,6 +6,10 @@ Date: 2017/03/20
 Tags: linux,ec2,docker,docker-swarm
 */
 
+# Docker Swarm on AWS EC2 Using Fedora 25
+
+Here are the steps I used to launch a Fedora 25 instance, on AWS, and make it
+join the Docker Swarm.
 
 ## EC2 Instance
 
