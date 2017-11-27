@@ -1,3 +1,5 @@
+# ERROR: Couldn't connect to Docker daemon at http+docker://localunixsocket - is it running?
+
 I was getting the following error when I tried to build my docker-compose.yml
 with `docker-compose build --pull`:
 
