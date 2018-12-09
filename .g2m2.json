@@ -5,11 +5,11 @@
 	"plugins": [
         "plugins/DisqusPlugin",
         "plugins/GoogleAnalyticsPlugin",
-        "https://rawgit.com/dmelo/g2m2-pages/master/assets/LayoutPlugin.js",
+        "https://cdn.jsdelivr.net/gh/dmelo/g2m2-pages@master/assets/LayoutPlugin.js",
         "plugins/TocPlugin",
         "plugins/HighlightPlugin"
 	],
     "css": [
-        "https://rawgit.com/dmelo/g2m2-pages/master/assets/style.css"
+        "https://cdn.jsdelivr.net/gh/dmelo/g2m2-pages@master/assets/style.css"
     ]
 }
